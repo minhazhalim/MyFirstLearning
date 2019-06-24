@@ -1,2 +1,2 @@
 # MyFirstLearning
-learning from video tutorial
+learning from www.lynda.com
